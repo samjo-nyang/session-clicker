@@ -1,7 +1,7 @@
 {
-  "name": "SOMBRA - KLMS",
-  "description": "KLMS Session Auto Refresh Chrome Extension",
-  "version": "1.0",
+  "name": "SOMBRA - KAIST",
+  "description": "KAIST Session Auto Refresh Chrome Extension",
+  "version": "1.1",
   "icons": {
     "128": "icon128.png"
   },
@@ -11,7 +11,9 @@
     ],
     "matches": [
       "http://klms.kaist.ac.kr/*",
-      "https://klms.kaist.ac.kr/*"
+      "https://klms.kaist.ac.kr/*",
+      "http://ssogw6.kaist.ac.kr/*",
+      "https://ssogw6.kaist.ac.kr/*"
     ]
   }],
   "manifest_version": 2

@@ -1,9 +1,15 @@
 (function() {
   setInterval(function () {
-    var button = document.getElementById('session_continuity');
-    if (button) {
-      button.click();
-      console.log('SOMBRA - Session refreshed!');
+    var button_selectors = [
+      '#session_continuity', /* klms.kaist.ac.kr */
+      '.sessionExtension', /* ssogw6.kaist.ac.kr */
+    ];
+    for (var i = 0; i < button_selectors.length; i++) {
+      var button = document.querySelector(button_selectors[i]);
+      if (button) {
+        button.click();
+        console.log('SOMBRA - Session refreshed!');
+      }
     }
   }, 1000 * 60 * 5);
   console.log('SOMBRA - Session refresh script has been injected!');
