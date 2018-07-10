@@ -1,5 +1,9 @@
-# SOMBRA - KLMS
-A Chrome extension that automatically refresh KLMS session!
+# SOMBRA - KAIST
+A Chrome extension that automatically refresh session for KAIST websites!
+
+## Website List
+- [KLMS](https://klms.kaist.ac.kr)
+- [KAIST Portal - Academic System](https://ssogw6.kaist.ac.kr)
 
 ## Usage - EN
 1. Download https://github.com/samjo-nyang/sombra-klms/archive/master.zip
