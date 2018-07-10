@@ -11,6 +11,6 @@
         console.log('SOMBRA - Session refreshed!');
       }
     }
-  }, 1000 * 60 * 5);
+  }, 1000 * 60 * 10);
   console.log('SOMBRA - Session refresh script has been injected!');
 })();
