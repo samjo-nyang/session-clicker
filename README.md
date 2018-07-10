@@ -6,7 +6,7 @@ A Chrome extension that automatically refresh session for KAIST websites!
 - [KAIST Portal - Academic System](https://ssogw6.kaist.ac.kr)
 
 ## Usage - EN
-1. Download https://github.com/samjo-nyang/sombra-klms/archive/master.zip
+1. Download https://github.com/samjo-nyang/sombra-kaist/archive/master.zip
 2. Unzip it to any location
 3. Visit chrome://extensions/
 4. Enable "Developer mode"
@@ -14,7 +14,7 @@ A Chrome extension that automatically refresh session for KAIST websites!
 6. Select the unzipped folder and enjoy!
 
 ## Usage - KR
-1. https://github.com/samjo-nyang/sombra-klms/archive/master.zip 를 다운로드 받으세요.
+1. https://github.com/samjo-nyang/sombra-kaist/archive/master.zip 를 다운로드 받으세요.
 2. 아무 위치애나 압축을 푸세요.
 3. chrome://extensions/ 페이지에 접속하세요.
 4. 상단의 "개발자 모드"를 활성화하세요.
