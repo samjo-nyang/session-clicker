@@ -15,7 +15,7 @@ A Chrome extension that automatically refresh session for KAIST websites!
 
 ## Usage - KR
 1. https://github.com/samjo-nyang/sombra-kaist/archive/master.zip 를 다운로드 받으세요.
-2. 아무 위치애나 압축을 푸세요.
+2. 아무 위치에나 압축을 푸세요.
 3. chrome://extensions/ 페이지에 접속하세요.
 4. 상단의 "개발자 모드"를 활성화하세요.
 5. "압축해제된 확장 프로그램 로드..."를 클릭하세요.
@@ -23,4 +23,4 @@ A Chrome extension that automatically refresh session for KAIST websites!
 
 ## Credit
 * Sungwon Cho - Developer
-* Dongkwan Kim - Icon
+* Dongkwan Kim - Developer + Icon
