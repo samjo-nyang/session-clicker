@@ -2,7 +2,7 @@
   setInterval(function () {
     var button_selectors = [
       '#session_continuity', /* klms.kaist.ac.kr */
-      '.sessionExtension', /* ssogw6.kaist.ac.kr */
+      '.sessionExtension', /* ssogw6.kaist.ac.kr, cais.kaist.ac.kr */
     ];
     for (var i = 0; i < button_selectors.length; i++) {
       var button = document.querySelector(button_selectors[i]);

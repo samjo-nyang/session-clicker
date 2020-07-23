@@ -13,7 +13,9 @@
       "http://klms.kaist.ac.kr/*",
       "https://klms.kaist.ac.kr/*",
       "http://ssogw6.kaist.ac.kr/*",
-      "https://ssogw6.kaist.ac.kr/*"
+      "https://ssogw6.kaist.ac.kr/*",
+      "http://cais.kaist.ac.kr/*",
+      "https://cais.kaist.ac.kr/*"
     ]
   }],
   "manifest_version": 2
