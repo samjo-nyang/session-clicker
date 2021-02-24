@@ -1,7 +1,7 @@
 (function() {
   setInterval(function () {
     var button_selectors = [
-      '#session_continuity', /* klms.kaist.ac.kr */
+      '.login-time > a', /* klms.kaist.ac.kr */
       '.sessionExtension', /* ssogw6.kaist.ac.kr, cais.kaist.ac.kr */
     ];
     for (var i = 0; i < button_selectors.length; i++) {
